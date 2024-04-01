@@ -11,7 +11,7 @@ This project is a ToDo List application developed using Angular and NgRx. It aim
 Follow these simple steps to get your development environment running:
 1. Clone the repository:
 ```sh
-git clone https://github.com/your-username/todo-list-angular-ngrx.git
+git clone https://github.com/omidfarzadian/ngrx-todo-list.git
 ```
 2. Install dependencies:
 ```sh
