@@ -19,7 +19,7 @@ cd ngrx-todo-list && npm install
 ```
 3. Serve the application:
 ```sh
-ng server
+ng serve
 ```
 
 ### License
