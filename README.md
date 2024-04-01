@@ -15,8 +15,7 @@ git clone https://github.com/your-username/todo-list-angular-ngrx.git
 ```
 2. Install dependencies:
 ```sh
-cd ngrx-todo-list
-npm install
+cd ngrx-todo-list && npm install
 ```
 3. Serve the application:
 ```sh
@@ -24,4 +23,4 @@ ng server
 ```
 
 ### License
-This project is licensed under the MIT License - see the `LICENSE.md` file for details.
+This project is licensed under the MIT License - see the `LICENSE` file for details.
